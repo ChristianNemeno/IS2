@@ -1,0 +1,22 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+venv/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Dataset folders (large binary files — store on Drive, not git) ────────────
+activities/act_3/Data/
+activities/act_3/Data_clean/
+activities/act_3/Data_augmented/
+
+# ── Zip archives ──────────────────────────────────────────────────────────────
+*.zip
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

@@ -1,0 +1,129 @@
+X:71
+T:Jackson's Bottle to Roguery
+Z: id:dc-jig-175
+M:K/D/:D/|De f/or
+d/B/|AF Ad/e/|f/e/f/d/ ed|Bd/B/ AF/A/|BE G/F/E/D/|!
+FA A/B/d/e/|f/e/f/d/ ed|Bd/B/ AF/A/|BE G/A/B/c/|dA A/F/D/F/|AG G/B/d/g/|!
+b/a/g/f/ a/g/f/e/|dB AF|D2 D2:|!
+
+X:36
+T:Newmarket
+Z: id:dc-polka-29
+M:2/4
+L:1/8
+K:D Major
+fd Ad|fd Ad|fd/B/ AF|E2 E2|!
+fd Ad|fd Ad|fd/B/ AF|D2 D2:|!
+FD FA|fe f2|df ed|^cA BA|!
+f2 fe|dc A2|ed e>f|gd gd|!
+ea ge|dB GA|Be eg/e/|dB AG/A/|BG G2:|!
+[2 Bd g2|ag f2|G2 AB|c=Bc fe|!
+d2 Bc|de d2|B2 B2|AG FE|D2 D2:|!
+
+X:3
+T:Black Mill
+Z: id:dc-reel-39
+M:C
+L:1/8
+K:G Major
+B|G2BG dGBG|A3B cdef|gedB c2Bc|dBcA BGG:|!
+d|g2bg dgbg|g2bg fdde|f2af dfef|g2bg gfde|fefg afge|!
+d2fd c2ec|defg afge|afge fdec|dBAG FDD:|!
+
+X:183
+T:Kilfen
+Z: id:dc-reel-61
+M:C
+L:1/8
+K:D Major
+AG|F2AF GFED|F2AF GFED|E3F GFED|EDEF GFED|!
+F2AF GFED|F2AF GFED|EDEF GFEF|GBed cAGE|!
+D2FD EDFE|DEFD EA,A,2|CEE2 GBed|cAGE D3:|!
+e|fded cAAe|fdef gbag|fded cAAF|GBAG FDDe|!
+fded cAAe|fdfa g2fa|gfde fdcA|G2AF GFED|!
+fefg fefd|gfga g2fg|afge fde^c|defd cAFA|]!
+G2dG BGdG|G2dG cAFA|G2dG BGGB|cAFG AGGA|!
+BdGA BGdB|ADD2 ABcA|G2Bd g3e|fdcA dBcA|!
+G2Bd g3e|f3d ABcA|dgg2 bgag|fdcA BGG|]!
+A|B2GB B2dB|ADFG ABcA|B2GB B2dB|cBcG Add^c|!
+dGG2 EGDC|B,DGB dGBd|ecc2 ecge|dBcA G3:|!
+
+X:94
+T:Famous Ballymote
+Z: id:dc-reel-86
+M:C
+L:1/8
+K:D Mixolydian
+E|FDAD FDAB|cBcG EFGE|FDFA dcAG|!
+F2FA dfec|dfed BcdB|A2AB AFDF|G2E2 E2AG|!
+FDFG A2AB|dfec d2g2|fage d2:|!
+ag|f2fe fedf|aggf g3f|edcB ABce|baa^g a2a=g|!
+f2fe fedf|aggf g3f|edcB ABce|baa^g a2a=g|!
+f2fe fedf|aggf g2fg|afge fdec|dfec A3:|!
+
+X:64
+T:Darley's
+Z: id:dc-reel-56
+M:C
+L:1/8
+K:A Major
+AF|A2cA BAFA|BcdB ADFA|BAec dBAF|GEFD EDB,D|!
+A,DDE FEDF|Adcd BAFA BAFA|BAcA BAcA|BAcA BAFA|!
+A2FA BAFA|A2FA BAFA|FABc dcdB|AFEF D4:|!
+Add2 Add2|AddA BAFA|BAcA BAcA|BAcA BAFA|!
+Add2 Adfd|Add2 fdd2|fdef gede|f2ge fdec|dfec d2:|!
+FG|Add2 fage|fage fdBd|Add2 (3Bcd AF|Adfa geAc|eddc d2:|!
+
+X:23
+T:Fisher's
+Z: id:dc-hornpipe-46
+M:C|
+L:1/8
+K:E Minor
+GA|(3BcB (3ABA (3GAG (3FGF|EFGA B2ef|gfed edBd|cBAG A2GA|!
+(3BcB (3ABA (3GAG (3FGF|EFGA B2ef|gfed Bgfg|e2E2 E2:|!
+ga|babg aff2|eBB2 gBB2|gabg fefg|afge fdec|dBAG FDD:|!
+
+X:5
+T:Beacher's Frolicem
+Z: id:dc-reel-47
+M:C
+L:1/8
+K:D Mixolydian
+e|fdd^c d=cAB|c2ec cAGE|DEFG AddB|cBcG AdcA|G2EC DCA,2|!
+G,CC2 EGG2|Add^c dfed|cBcG AdcA|GEDF ECC:|!
+B|c2ec gcec|c2ec AddB|cAGE FEFG|AcGE EDDC|!
+EGAB c3A|d2de fdcA|GcAG FDD:|!
+
+X:349
+T:Swallow's Tailor
+Z: id:dc-reel-172
+M:C
+L:1/8
+K:D Mixolydian
+=FE|DA,A,2 DA,=FA,|DA,A,2 CA,G,A,|DA,A,2 D2DE|FGAF G2FG|!
+Adde fage|dfed cAAF|E3F GFED|!
+GABG EFGE|ABcA FGAF|GBdg ecAF|G2GF G2:|!
+Bc|dedc BcdB|efed cdef|gfgd ecAG|FGAF DEFD|!
+GABG EFGE|ABcA FGAF|GBdg ecAF|G2GF G2:|!
+
+X:35
+T:Proverst
+Z: id:dc-reel-283
+M:C
+L:1/8
+K:G Major
+dGG2 dGeG|dGGA BAA2|Bdd2 e2dB|AcBA GED2|]!
+gfga bgaf|gfga beeg|fddc dfaf|gfeg fdde|!
+faa2 bgg2|afeg fdBc|dFF2 ABdf|afeg fdd|]!
+
+X:351
+T:Tam Lin
+Z: id:dc-reel-328
+M:C
+L:1/8
+K:D Minor
+C|A,DFD A,DFD|B,DFD B,DD2|FEDE FAdB|!
+AFDF A2Bc|defd BcdB|AFEF D3:|!
+g|faag fdde|fdad fddf|gebe geef|gebe geeg|!
+f3a g3e|faec dcBA|a2fa g2eg|fde
